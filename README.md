@@ -9,6 +9,8 @@ The dataset spans 700 records containing product-level transaction details, incl
 
 ### Dataset Structure
 
+<img width="1111" height="381" alt="Image" src="https://github.com/user-attachments/assets/81a4e14b-ffe1-4909-9f46-4259da6a8ab5" />
+
 #### Primary Data Table: Sales Data
 
 Records: Numerous sales transactions spanning multiple years. Consists of 700 rows.
