@@ -41,6 +41,8 @@ Key Columns:
 
 1. Sales Performance Analysis
 
+   <img width="174" height="129" alt="Image" src="https://github.com/user-attachments/assets/7f1b3bf7-54aa-4cb4-9391-4c01d4a68dcb" />
+
       * Total sales performance across different countries
 
       * Product-wise revenue contribution
@@ -49,6 +51,8 @@ Key Columns:
 
 2. Product Portfolio Analysis
 
+   <img width="182" height="105" alt="Image" src="https://github.com/user-attachments/assets/051a42da-fa36-4d02-a62a-4cbc4d5953b3" />
+
       * Performance across product ranges (Luxury, Regal, Standard, Velour)
 
       * Market share distribution by product category
@@ -56,6 +60,8 @@ Key Columns:
       * Units sold analysis by product type
 
 3. Geographic Performance
+
+   <img width="181" height="202" alt="Image" src="https://github.com/user-attachments/assets/793df072-d0b9-4b96-8530-94890a528235" />
 
       * Country-wise sales distribution
       
