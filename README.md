@@ -158,6 +158,9 @@ Performance Indicators
 * Profitability and efficiency metrics
 
 ## 📊 Visualization Features
+
+<img width="1371" height="708" alt="Image" src="https://github.com/user-attachments/assets/01efc28d-c829-40d5-8686-5583b0b1ea31" />
+
 ### Interactive Elements
 * Country-wise performance filters
 
